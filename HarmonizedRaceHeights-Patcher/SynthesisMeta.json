@@ -1,0 +1,13 @@
+{
+  "Nickname": "HarmonizedRaceHeights-Patcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Harmonized Race Heights Patcher",
+  "LongDescription": "Automatic Harmonized Race Heights Patcher\r\n\r\nhttps://www.nexusmods.com/skyrimspecialedition/mods/139918",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "Harmonized Race Heights.esp"
+  ],
+  "TargetedReleases": [
+    "SkyrimSE"
+  ]
+}
