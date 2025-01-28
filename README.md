@@ -10,6 +10,6 @@ So to be sure to keep the plugin of my mod very high and consider using the patc
 ## Typical usage
 So you will have for example:
 
-`Unofficial Skyrim Special Edition Patch.esm -> Unofficial Skyrim Modders Patch.esm -> Harmonized Race Heights.esp -> ... -> *Harmonized Race Heights patches* -> *Eventual race overhaul mod*`
+`Unofficial Skyrim Special Edition Patch.esm -> Unofficial Skyrim Modders Patch.esm -> Harmonized Race Heights.esp -> ... -> *Harmonized Race Heights patches* -> *Eventual race overhaul mod* -> ... -> Synthesis.esp`
 
 This would be the ideal plugin order for this synthesis patcher to be run that will result in everything getting forwared in the Synthesis.esp file correctly.
