@@ -23,7 +23,7 @@ I am aware there are other solutions and will try them as well but I honestly ma
 
 * This patcher should be great to patch a race mod (or multiple) in a matter of seconds if the user is already familiar and/or using synthesis.
 
-* There should be no need to update the patcher since it relies on the heights values pulled from the plugin file, so if i change something or create new variants of the it will automatically forward the updated values (by of course running it again after the main mod update/change).
+* There should be no need to update the patcher since it relies on the heights values pulled from the plugin file, so if i change something or create new variants of the mod it will automatically forward the updated values (by of course running it again after the main mod update/change).
 
 ### Downsides
 
